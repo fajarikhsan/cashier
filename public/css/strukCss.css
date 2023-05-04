@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.judul {
+  text-align: center;
+  font-size: 12px;
+}
+
+.strukIsi {
+  font-size: 10px;
+}
+
+.right {
+  text-align: right;
+}
+
+.strukTabel {
+  width: 100%;
+}
+
+.nohp {
+  font-size: 10px;
+  text-align: center;
+}
+
+.m-0 {
+  margin: 0;
+}
